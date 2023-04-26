@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateSVG = require('./lib/shapes.js');
+const generateSVG = require('./lib/svg.js');
 
 const questions = [
     {

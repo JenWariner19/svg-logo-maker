@@ -5,6 +5,6 @@ describe('Triangle', () => {
       const shape = new Triangle;
       shape.setColor('red');
 
-      expect(shape.render()).toEqual('<polygon points="150,20 230,180 70,180" fill="red"/>');
+      expect(shape.render()).toEqual('<polygon points="0,200 300,200 150,0" fill="red"/>');
     });
   });

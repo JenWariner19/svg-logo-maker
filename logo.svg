@@ -3,8 +3,8 @@
 width="300" height="200"
 xmlns="http://www.w3.org/2000/svg">
 
-<rect x="10" y="10" width="100%" height="100%" fill="#888888"/>
+<polygon points="0,200 300,200 150,0" fill="blue"/>
 
-<text x="150" y="125" font-size="60" text-anchor="middle" fill="#999999">JMW</text>
+<text x="150" y="125" font-size="60" font-family="monospace" text-anchor="middle" fill="black">JMW</text>
 
 </svg>

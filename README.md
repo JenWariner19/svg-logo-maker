@@ -20,7 +20,7 @@ Open the terminal, in the command line type - node index.js - follow the prompts
 ![Prompts](./assets/images/screenshot1.png)<br><br>
 Once you have entered your information, an svg logo will be generated.<br>
 ![Sample Logo](./assets/images/screenshot3.png)<br><br>
-For an example of the process, please view this video: [Demo Video](https://drive.google.com/file/d/1Gj8uTQEHhmv9o8o8n2atURhNmCuCAZ40/view)
+For an example of the process, please view this video: [Demo Video](https://drive.google.com/file/d/1TTNvp5ucWpJF2z3uNJvp5SiO8hgkiHlZ/view)
 
 ## Contributing
 N/A
